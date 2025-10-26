@@ -1,0 +1,16 @@
+{
+    "pandas_stats": {
+        "qtd_total": 2247,
+        "receita_total": 1068803.0,
+        "preco_medio": 546.54
+    },
+    "fp_desafio": {
+        "coluna_aplicada": "qtd",
+        "limite": 2,
+        "resultado": {
+            "soma_quadrados": 71440,
+            "contagem": 61,
+            "media_inteira": 1171
+        }
+    }
+}
